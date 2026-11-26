@@ -91,7 +91,7 @@ npm -v
 Clone the repository:
 
 ```bash
-git clone https://github.com/Joseph-Nostra/WiamCookies.git
+git clone https://github.com/Youssef-Zhar/WiamCookies.git
 ```
 
 Navigate to the project directory:
